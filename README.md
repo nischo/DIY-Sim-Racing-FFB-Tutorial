@@ -2,6 +2,15 @@
 A summury of informations for the diy ffb pedal
 
 # Content
+[1. Rail](#rail)
+
+[2. Motor](#motor)
+
+[3. PSU](#psu)
+
+[4. Loadcell](#loadcell)
+
+
 
 ## Parts to order
 Apart from the origianl [BOM](https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal-Mechanical-Design/tree/main/BOM) i will share the parts i used for my pedal.
