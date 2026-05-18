@@ -3,11 +3,8 @@ A summury of informations for the diy ffb pedal
 
 # Content
 [1. Rail](#rail)
-
 [2. Motor](#motor)
-
 [3. PSU](#psu)
-
 [4. Loadcell](#loadcell)
 
 
@@ -49,6 +46,7 @@ This is the recomended PSU for 2 pedals. Some guys use it also for 3 pedals. But
 ![image](pics/dyly_107.png)
 
 [DYLY-107](https://de.aliexpress.com/item/1005003060282833.html)
+
 If you want to build a compact design, i would recommend to with the DYLY-107 loadcell. 
 
 
