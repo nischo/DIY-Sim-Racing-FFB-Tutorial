@@ -16,11 +16,13 @@ Apart from the origianl [BOM](https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal
 ![image](pics/jkk_rail.png)
 
 [JKK60-5-C-150-A1-F4-M](https://jlcmc.com/product/s/B16/BQD-JKK60/steel-linear-actuators-kk60-series)
+
 I would always recomend to order the **JKK rail**. This is much smoother then the normal aliexpress rail. You can search in discord for feedback of the JKK rail.
 If you order the rail you have some option to choose. Normaly you can use just the standard **C** option. If you are willing to spend some more money you can order the precision **P** one, but for our application there is no benefit.
 ![image](pics/LKN60.png)
 
 [LKN60 KK](https://www.omc-stepperonline.com/lkn60-kk-series-ball-screw-driven-linear-module-max-horizontal-vertical-payload-30kg-10kg-stroke-60mm-lkn60-23dl050-060)
+
 Since some time [stepperonline](https://www.omc-stepperonline.com/) also sell a rail which you can use. It looks like the JKK rail, so i think there are not  much differents. 
 
 ### Motor
