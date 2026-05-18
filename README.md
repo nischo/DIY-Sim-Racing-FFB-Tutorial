@@ -19,6 +19,7 @@ Since some time [stepperonline](https://www.omc-stepperonline.com/) also sell a 
 
 ### Motor
 ![image](pics/nema23_130s.png)
+
 [iSV57T-130S- NEMA 23 Integrated Easy Servo Motor 130W 3000rpm](https://www.omc-stepperonline.com/nema-23-integrated-easy-servo-motor-130w-3000rpm-0-45nm-63-73oz-in-20-50vdc-servo-motor-short-shaft-isv57t-130s)
 
 This ist the motor for the project. Only the Nema 23 from this side is supported by the firmware. The **iSV57T-130S** is the short shaft version. You can also buy the **iSV57T-130** without the S but you need to shortend the shaft by yourself. 
@@ -36,6 +37,8 @@ Some people use the 180Watt version. This also works, but have in mind that the 
 This is the recomended PSU for 2 pedals. Some guys use it also for 3 pedals. But can not be guaranteed that it has sufficiant power for all game situations.
 
 ### Loadcell
+![image](pics/dyly_107.png)
+
 [DYLY-107](https://de.aliexpress.com/item/1005003060282833.html)
 If you want to build a compact design, i would recommend to with the DYLY-107 loadcell. 
 
